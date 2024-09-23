@@ -1,4 +1,4 @@
-**Public Transport Preference in Tennessee State - Dashboard**
+**Public Transport Preference in Tennessee State**
 
 **Overview**
 
